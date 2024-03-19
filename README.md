@@ -1,2 +1,2 @@
-Hello there! This page contains all the mods that I upload to the Sonic 3 A.I.R. Forums, but you can use it to directly download the mods.
-Please use the Releases page to download them if acessing from this repository, and use the Issues tab to report bugs. (obviously if not through the S3AIR Forums or GameBanana)
+[ENG] Hello there! This repository contains all of the Sonic 3: Angel Island Revisited mods I have publicly released. This is also where S3AIR Forums download links redirect to.
+[PT-BR] Olá! Esse repositório contém todos os mods públicos que criei para o Sonic 3: Angel Island Revisited. Esse lugar também é aonde os links de download nos Fórums do S3AIR redirecionam.
